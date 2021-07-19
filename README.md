@@ -1,1 +1,1 @@
-<img src="https://github.com/goodfellarich/sunflower/blob/main/animations/sunflower_phi.gif"
+![Alt Text](https://github.com/goodfellarich/sunflower/blob/main/animations/sunflower_phi.gif)
