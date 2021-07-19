@@ -1,1 +1,1 @@
-# sunflower
+<img src="animations/sunflower_phi.gif"
