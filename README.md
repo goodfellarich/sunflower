@@ -1,1 +1,1 @@
-<img src="animations/sunflower_phi.gif"
+<img src="https://github.com/goodfellarich/sunflower/blob/main/animations/sunflower_phi.gif"
