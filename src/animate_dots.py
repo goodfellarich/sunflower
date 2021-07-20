@@ -1,6 +1,4 @@
-import numpy as np
 import math
-import random
 from matplotlib import pyplot as plt
 from matplotlib.animation import FuncAnimation
 from celluloid import Camera
